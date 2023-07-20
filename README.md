@@ -89,4 +89,4 @@ receivers:
   - url: 'http://127.0.0.1:8000/proxy'
     send_resolved: true
 ```
-
+![图片描述](https://github.com/MasonSRE/alertmanager-wechatbot/blob/main/wechatbot.png)
